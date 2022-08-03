@@ -1,7 +1,7 @@
 <h1 align="center">Jogoteca</h1>
 
 <h2>Funções</h2>
-<p>O jogoteca possui tabelas com informações de jogos, além de poder ter novos jogos adicionados a tabela pelo usuário, porém são salvos na memória.</p>
+<p>O jogoteca possui tabelas com informações de jogos, além de poder ter novos jogos adicionados a tabela pelo usuário, porém esses são salvos na memória.</p>
 
 <h2>Feito em</h2>
 <p>Pyhon, com a biblioteca Flask</p>
